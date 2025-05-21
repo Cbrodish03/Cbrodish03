@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @Cbrodish03
-- 🌱 I’m currently completing my bachelor's degree at Virginia Tech, studying Computer Science
+- 🌱 I’m currently completing my master's degree at Virginia Tech, studying Computer Science & Applications
+  	- I'm also a double hokie! Completed my bachelor's in Computer Science at VT
 - 👀 I’m interested in artificial intelligence, data science, and systems engineering
 - 📫 How to reach me 
 	- 📱 Phone: 215-872-5637
